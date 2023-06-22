@@ -25,7 +25,7 @@ def get_leaders():
 
     #loop through the country list, get the first paragraph on wikipedia, append it to the dictionary 
     for country in countries:
-        if s.get(leaders_url,params={'country':'us'},cookies=req.cookies).status_code == 200:
+        if s.get(leaders_url,params={'country':country},cookies=req.cookies).status_code == 200:
             leaders_per_country[country] = s.get(leaders_url,params={'country':country},cookies=req.cookies).json()
             for leader in leaders_per_country[country]:
                 leader['first_paragraph'] = get_first_paragraph(leader['wikipedia_url'],s)
