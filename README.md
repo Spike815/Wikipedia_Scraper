@@ -30,4 +30,3 @@ The screenshot below shows the final result of the info I scrapped from wikipedi
 Author: <i>Bo Cao</i> 
 Contact:<a href = 'https://www.linkedin.com/in/bo-cao-313ab244'> Linkedin </a>
 
->
