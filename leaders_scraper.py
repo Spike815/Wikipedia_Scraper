@@ -80,5 +80,4 @@ def save(file:dict):
     with open('leaders_per_country.json','w',encoding="utf-8") as outputfile:
         outputfile.write(json_file)
 
-save(get_leaders())
 
