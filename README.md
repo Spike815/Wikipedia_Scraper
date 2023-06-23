@@ -24,9 +24,9 @@ This project took me 2 days to finish.
 
 ## Final result
 The screenshot below shows the final result of the info I scrapped from wikipedia.
-[Final result](image.png)
+![Screenshot](image.png)
 
 ## Personal
-Author: <i>Bo Cao</i> 
+Author: <i>Bo Cao</i> <br/>
 Contact:<a href = 'https://www.linkedin.com/in/bo-cao-313ab244'> Linkedin </a>
 
