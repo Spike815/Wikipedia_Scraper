@@ -1,4 +1,4 @@
-## Wikipedia_Scrapper
+## Wikipedia_Scraper
 My wikipedia scrapper project while studying in Becode.
 
 ## Description
@@ -17,7 +17,7 @@ The skills I demonstrated in this project:
 </ul>
 
 ## How to run 
-The scrapper starts by running <code>python main.py</code> in the terminal.
+The scraper starts by running <code>python main.py</code> in the terminal.
 
 ## Time line
 This project took me 2 days to finish.
